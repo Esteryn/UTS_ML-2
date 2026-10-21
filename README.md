@@ -5,3 +5,4 @@ Project mengintegrasikan tiga metode machine learning, yaitu XGBoost untuk predi
 
 Anggota Kelompok:
 Ester Yunita Nainggolan (23083010039)
+Erna Novita Anggie (23083010038)
